@@ -1,15 +1,18 @@
 -----------------------------------------ABOUT THE PROJECT----------------------------------------------------
+
 – Developed an independent movie recommendation system utilizing item-based collaborative filtering to enhance
 recommendation accuracy.
+
 – Implemented advanced vectorization techniques within Natural Language Processing (NLP) to analyze and match
 movie preferences.
+
 – Expanded the dataset to include over 4,000 movies, integrating Bollywood titles to increase cultural diversity and
 relevance.
 
 -----------------------------------------STEPS TO RUN MODEL-----------------------------------------------------
+
 USER NEEDS TO RUN THE MOVIE_RECOMMENDATION_SYSTEM (mrs) PYTHON FILE FIRST AND CREATE PICKLE FILES IN THERE SYSTEM.
-IN THE SAME FOLDER RUN THE APP.PY FILE AFTER THAT 
-ON THE TERMINAL TYPE "streamlit run app.py" 
+IN THE SAME FOLDER RUN THE APP.PY FILE AFTER THAT ON THE TERMINAL TYPE "streamlit run app.py". 
 USER WILL BE LANDED ON THE WEBPAGE AND IT IS READY TO USE
 
 -------------------------------------------SOME VISUALS------------------------------------------------------
