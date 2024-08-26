@@ -2,3 +2,5 @@ USER NEEDS TO RUN THE MOVIE_RECOMMENDATION_SYSTEM (mrs) PYTHON FILE FIRST AND CR
 IN THE SAME FOLDER RUN THE APP.PY FILE AFTER THAT 
 ON THE TERMINAL TYPE "streamlit run app.py" 
 USER WILL BE LANDED ON THE WEBPAGE AND IT IS READY TO USE
+![Screenshot 2024-08-25 211522](https://github.com/user-attachments/assets/43dc9398-51e6-446f-b021-a8bcd9aa958c)
+![Screenshot 2024-08-25 211552](https://github.com/user-attachments/assets/e935f9ba-817d-4271-bc34-ae69d0747ad0)
